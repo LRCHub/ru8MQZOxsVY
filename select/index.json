@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "きれいなもの",
+  "base_artist": "レトロリロン",
+  "createdAt": "2026-02-15T15:21:14.690396Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きれいなもの",
+      "artist": "レトロリロン",
+      "has_synced": false,
+      "path": "select/pl_01_きれいなもの_レトロリロン.txt"
+    }
+  ]
+}
